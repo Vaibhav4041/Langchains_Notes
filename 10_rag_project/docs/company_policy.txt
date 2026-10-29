@@ -1,0 +1,79 @@
+Project Gemini: Comprehensive
+Operational Policy Framework
+Policy ID: POL-GEM-2026-01 Effective Date: August 10, 2026
+Version: 1.0 (Ideal Blueprint) Review Cycle: Annually
+Approved By: Executive Leadership Team Owner: Operations & Governance Dept.
+1. Purpose & Core Intent
+The primary purpose of Project Gemini is to establish a rigorous, secure, and highly adaptable corporate
+operating framework that balances modern workforce agility with uncompromising compliance
+infrastructure. This policy serves to minimize operational risks, standardise professional workflows, and
+guarantee complete transparency across multi-tiered regional deployments.
+By implementing these standardized controls, the organization establishes a blueprint designed to protect
+digital infrastructure, uphold client confidentiality, and provide personnel with unambiguous guardrails for
+day-to-day corporate operations.
+2. Definitive Scope
+This regulatory framework applies universally to all personnel engaged in company business, regardless
+of geographical location or employment classification. The scope specifically encompasses:
+• Full-Time & Part-Time Employees: All regular corporate staff members across global offices.
+• Contractors & Contingent Workers: Third-party vendors, extended service teams, and advisory
+consultants.
+• Operational Assets: All company-owned data arrays, virtual platforms, computing hardware, and
+physical premises.
+3. Operational Directives & Core Pillars
+To ensure operational excellence, all personnel must adhere to the three foundational pillars of Project
+Gemini outlined below:
+3.1 Information Security & Systems Integrity
+Security protocols must strictly match contemporary technical standards. Information access is gated
+carefully through an identity matrix based exclusively on corporate requirements:
+PROJECT GEMINI: STANDARD OPERATING POLICY
+CONFIDENTIAL - INTERNAL USE ONLY Page 1 of 3
+• Access Control: Rights are granted using the Principle of Least Privilege (PoLP). Users only access
+data vital to their immediate task.
+• Authentication Modalities: Multi-Factor Authentication (MFA) must be maintained for all software,
+platforms, and corporate networks.
+• Data Transmission: Any project communication containing sensitive data must use approved
+corporate channels with end-to-end encryption.
+3.2 Workplace Flexibility & Hybrid Protocols
+Workforce agility thrives when bounded by reliable structural parameters. The framework balances
+location flexibility with business continuity:
+• Core Collaboration Hours: Core synchronous hours are fixed from 10:00 AM to 3:00 PM EST daily to
+facilitate key team meetings.
+• Workspace Ergonomics & Security: Remote work setups must satisfy baseline noise isolation, visual
+privacy, and technical connectivity levels.
+3.3 Ethical Conduct & Professional Governance
+Integrity remains the cornerstone of corporate sustainability. All business activities must reflect the highest
+standards of corporate citizenship:
+• Conflicts of Interest: Staff must proactively disclose any financial or personal associations that could
+impact impartial judgment.
+• Regulatory Compliance: Activities must comply with governing laws, including local labor codes,
+consumer privacy acts, and trade regulations.
+4. Incident Reporting & Escalation Protocols
+Prompt resolution of operational anomalies or policy deviations requires structured escalation paths. The
+following tiered grid mandates precise handling processes based on incident severity:
+Severity Classification Example Mandated Action Timeframe
+Tier 1: Low Minor software glitches, minor timing
+adjustments.
+Resolved locally within 48
+business hours.
+Tier 2: Medium System outages, unauthorized peripheral use. Escalated to Dept. Head;
+resolved in 12 hours.
+Tier 3: High Data breach, severe compliance violation. Immediate executive
+notification; instant
+containment.
+PROJECT GEMINI: STANDARD OPERATING POLICY
+CONFIDENTIAL - INTERNAL USE ONLY Page 2 of 3
+5. Accountability & Enforcement Measures
+Adherence to this framework is mandatory. The organization ensures regular audits of processes,
+systems, and teams to confirm baseline compliance. Non-compliance compromises enterprise safety and
+will lead to formal disciplinary procedures. Actions range from written performance notifications and
+system access suspension up to immediate termination of service contracts or employment.
+6. Continuous Policy Maintenance & Revision History
+To match changing technological and regulatory demands, this document undergoes thorough scheduled
+reviews. Modifications follow formal operational change workflows, ensuring policy relevance over time.
+PROJECT GEMINI: STANDARD OPERATING POLICY
+CONFIDENTIAL - INTERNAL USE ONLY Page 3 of 3
+
+In our company project manager is Isha Bhosale.
+Our company owner is Vaibhav Bhosale.
+Our company is located at karve nagar pune.
+In our company we dont provide work from home.
